@@ -1,5 +1,5 @@
-﻿markdown
-# Vehicle Rental System
+﻿
+# Vehicle Rental System 🚗
 
 ## Project Overview
 The system was written in the Java language and demonstrates the principles of object-oriented programming by managing car rental processes. Each vehicle can be represented by a separate class, and interfaces and abstract classes are used to create a hierarchy between the different types of vehicles. The system is able to distinguish between types of customers and vehicles and adjust the rental process accordingly, using loading and forcing methods to manage different behaviors between departments.
@@ -31,4 +31,4 @@ cd Vehicle_Rental_System
 
 
 # Contact:
-Shevy Kossovsky 0556773361 shevy0556773361@gmail.com
+Shevy Kossovsky 📞 0556773361 ✉ shevy0556773361@gmail.com
