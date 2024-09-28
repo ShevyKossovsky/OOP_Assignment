@@ -30,5 +30,5 @@ cd Vehicle_Rental_System
 3. Run the application with your java IDE like Eclipse, IntelliJ IDEA, or NetBeans.
 
 
-# Contact:
+## Contact:
 Shevy Kossovsky 📞 0556773361 ✉ shevy0556773361@gmail.com
