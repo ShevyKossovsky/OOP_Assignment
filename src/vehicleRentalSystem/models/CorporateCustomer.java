@@ -26,7 +26,6 @@ public class CorporateCustomer implements Customer {
     public void rentVehicle(Vehicle vehicle, int days) {
         double discountedCost = vehicle.calculateRentalCost(days) * 0.85;  // Corporate customers get a 15% discount
         rentedVehicles.add(vehicle);
-        System.out.println(name + " rented a " + vehicle.getModel() + " for " + days + " days. Discounted cost: $" + discountedCost);
     }
 
     @Override

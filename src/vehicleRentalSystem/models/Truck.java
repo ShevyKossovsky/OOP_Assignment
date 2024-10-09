@@ -3,7 +3,7 @@ package vehicleRentalSystem.models;
 
 // Truck.java
 public class Truck extends Vehicle {
-    private int capacity;  // Capacity in tons
+    private  int capacity;  // Capacity in tons
 
     public Truck(String licensePlate, String make, String model, double rentalPrice, int capacity) {
         super(licensePlate, make, model, rentalPrice);

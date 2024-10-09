@@ -23,7 +23,6 @@ public class RegularCustomer implements Customer {
     @Override
     public void rentVehicle(Vehicle vehicle, int days) {
         rentedVehicles.add(vehicle);
-       // System.out.println(name + " rented a " + vehicle.getModel() + " for " + days + " days. Total cost: $" + vehicle.calculateRentalCost(days));
     }
 
     @Override
